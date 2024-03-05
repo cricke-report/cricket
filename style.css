@@ -1,14 +1,5 @@
-body{
-    
-  }
-  .container {
-    margin: auto;
-    width: 80%;
-    border: 3px;
-  }
-
-  ul {
+ul {
     list-style-type: none;
     text-align: center;
-  }
+}
   
